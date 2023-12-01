@@ -1,6 +1,6 @@
 ### Boas Vindas 🤚
 
-<em>Me chamo Mateus</em>
+<em>Me chamo <strong>Mateus</strong></em>
 
 Estudo linguagem de programação, JavaScript_💻
 
@@ -12,7 +12,7 @@ E utilizo esse espaço para aprender e compartilhar meus projetos 📱🖥️
 
 ### 👉 mateus.kommers.silva@escola.pr.gov.br 👈 ###
 
-![octocat-1697815378917](https://github.com/mateusko/mateusko1/assets/148561269/1ae74165-182a-45e4-8dcc-9392b9198102)
+![octocat-1697815378917](https://github.com/mateusko/mateusko1/assets/148561269/1ae74165-182a-45e4-8dcc-9392b9198102)]
 
 
 
